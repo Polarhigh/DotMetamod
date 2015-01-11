@@ -1,0 +1,12 @@
+{
+	"working_dir": "${project_path}/cmake",
+	"shell_cmd": "cmake ../",
+
+	"variants":
+	[
+		{
+			"name": "Run",
+			"shell_cmd": "make"
+		}
+	]
+}

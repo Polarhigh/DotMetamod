@@ -1,0 +1,21 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "src/inih"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "src/meta_assembly"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "src/shared"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "src/meta_mono"
+		}
+	]
+}
